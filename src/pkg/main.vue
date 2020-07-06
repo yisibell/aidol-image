@@ -66,7 +66,7 @@
       },
       // viewer tips div style object
       viewerTipsStyle: {
-        type: [Object, undefined],
+        type: Object,
         default: () => ({
           height: '40px',
           width: '100%',

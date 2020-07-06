@@ -67,8 +67,8 @@ export default {
   display: 'flex',
   justifyContent: 'center',
   alignItems: 'center',
-  fontSize: '12px',
-  color: '#ccc',
+  fontSize: '14px',
+  color: '#fff',
   position: 'absolute',
   left: '0px',
   top: '0px'
@@ -90,3 +90,5 @@ export default {
 | :------- | :------- |
 | placeholder | 图片未加载的占位内容 |
 | error | 加载失败的内容 |
+
+# Logs

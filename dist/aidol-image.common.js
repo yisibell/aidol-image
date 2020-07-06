@@ -2726,12 +2726,12 @@ if (typeof window !== 'undefined') {
 // Indicate to webpack that this file can be concatenated
 /* harmony default export */ var setPublicPath = (null);
 
-// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"7b48d347-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/pkg/main.vue?vue&type=template&id=1cd1d308&
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js?{"cacheDirectory":"node_modules/.cache/vue-loader","cacheIdentifier":"7b48d347-vue-loader-template"}!./node_modules/vue-loader/lib/loaders/templateLoader.js??vue-loader-options!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/pkg/main.vue?vue&type=template&id=7b2a8d26&
 var render = function () {var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;return _c('div',{staticClass:"el-image"},[(_vm.loading)?_vm._t("placeholder",[_c('div',{staticClass:"el-image__placeholder"})]):(_vm.error)?_vm._t("error",[_c('div',{staticClass:"el-image__error"},[_vm._v(" 加载失败 ")])]):_c('img',_vm._g(_vm._b({staticClass:"el-image__inner",class:{ 'el-image__inner--center': _vm.alignCenter, 'el-image__preview': _vm.preview },style:(_vm.imageStyle),attrs:{"src":_vm.src},on:{"click":_vm.clickHandler}},'img',_vm.$attrs,false),_vm.$listeners)),(_vm.preview)?[(_vm.showViewer)?_c('image-viewer',{ref:"el-image-viewer",attrs:{"z-index":_vm.zIndex,"initial-index":_vm.imageIndex,"on-close":_vm.closeViewer,"on-switch":_vm.switchHandler,"url-list":_vm.previewSrcList}}):_vm._e()]:_vm._e()],2)}
 var staticRenderFns = []
 
 
-// CONCATENATED MODULE: ./src/pkg/main.vue?vue&type=template&id=1cd1d308&
+// CONCATENATED MODULE: ./src/pkg/main.vue?vue&type=template&id=7b2a8d26&
 
 // EXTERNAL MODULE: ./node_modules/core-js/modules/es.array.concat.js
 var es_array_concat = __webpack_require__("99af");
@@ -3892,8 +3892,8 @@ var prevOverflow = '';
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          fontSize: '12px',
-          color: '#ccc',
+          fontSize: '14px',
+          color: '#fff',
           position: 'absolute',
           left: '0px',
           top: '0px'

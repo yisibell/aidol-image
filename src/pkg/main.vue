@@ -73,8 +73,8 @@
           display: 'flex',
           justifyContent: 'center',
           alignItems: 'center',
-          fontSize: '12px',
-          color: '#ccc',
+          fontSize: '14px',
+          color: '#fff',
           position: 'absolute',
           left: '0px',
           top: '0px'

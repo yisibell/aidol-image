@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name aidol-image src/pkg/main.vue",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "release": "npm publish --access=public"
   },
   "author": {
     "name": "elenh",

@@ -1,5 +1,10 @@
 # aidol-image
-A image Component for vue
+
+A image Component for vue.
+
+> `aidol-image` 是对 `element-ui@2.x` 中 `el-image` 功能增强的 **Hack**。将其内部原本没有暴露出来的 `switch` 事件丢了出来。从而让你有能力控制 `viewer` 切换时的某些操作。比如：给当前切换的大图预览加上个标题显示。
+
+> 注意：请不要过度依赖于该组件。最好的方式是 `el-image` 能够原生提供该 `api`。或许可以给她提交个 **PR** 来解决该问题。
 
 # Installation
 

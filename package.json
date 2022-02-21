@@ -1,6 +1,6 @@
 {
   "name": "@aidol/image",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "main": "dist/aidol-image.umd.min.js",
   "description": "A image component for vue",
   "scripts": {
@@ -36,6 +36,7 @@
     "@vue/eslint-config-prettier": "^6.0.0",
     "babel-eslint": "^10.1.0",
     "core-js": "^3.6.5",
+    "cz-conventional-changelog": "^3.3.0",
     "element-ui": "^2.13.2",
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.1.3",

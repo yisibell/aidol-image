@@ -1,3 +1,8 @@
+> WARNING: 该组件已不再维护，且不推荐这样使用，请改用 <a href="https://github.com/yisibell/vue-previewable-image">vue-previewable-image</a> 替代。
+
+
+
+
 # aidol-image
 
 A image Component for vue.
